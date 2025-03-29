@@ -43,6 +43,6 @@ In this repository, the following delivarables were produced:
 
 You can find the evaluation results, report, and presentation below.
 
-[View the report](https://docs.google.com/document/d/1pEVgpuFxuoEakHAGJ2XrVo09N7iBm3ArtWuK6KfFeQg/edit?usp=sharing) 
+[View the Report](https://docs.google.com/document/d/1pEVgpuFxuoEakHAGJ2XrVo09N7iBm3ArtWuK6KfFeQg/edit?usp=sharing) 
 
 [View the Presentation](https://prezi.com/view/ZCrPCJzuuVaeDIlEsxVo/)
